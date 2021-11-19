@@ -1,0 +1,8 @@
+.title {
+  color: #fff;
+  background-image: url('/images/pattern.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 15px;
+  margin-bottom: 15px;
+}
