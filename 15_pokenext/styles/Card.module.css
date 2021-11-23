@@ -7,7 +7,7 @@
   margin-bottom: 2em;
   width: 23%;
   border-radius: 1em;
-  border: 1px solid #ccc;
+  border: 2px solid #e33d33;
   box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.5);
   background-color: #333;
   color: #fff;
@@ -15,10 +15,10 @@
 
 .card .id {
   margin: 1em 0;
-  background-color: #fff;
+  background-color: #e33d33;
   border-radius: 5px;
   padding: 5px;
-  color: #222;
+  color: #fff;
   display: flex;
   justify-content: center;
   align-items: center;
