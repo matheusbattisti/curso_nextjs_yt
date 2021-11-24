@@ -2,6 +2,21 @@
   text-align: center;
 }
 
+.title {
+  font-size: 2.5em;
+  text-transform: capitalize;
+  background-color: #333;
+  color: #fff;
+  padding: 0.3em;
+  margin: 0.8em auto;
+  width: 200px;
+}
+
+.pokemon_container h3 {
+  margin: 0.6em auto;
+  font-size: 1.2em;
+}
+
 .types_container {
   display: flex;
   align-items: center;
@@ -89,4 +104,24 @@
 
 .type_fairy {
   background-color: #e9e;
+}
+
+.data_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.5em;
+}
+
+.data_container div {
+  margin: 1em 0;
+  padding: 0 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.data_height {
+  border-right: 1px solid #ccc;
 }
